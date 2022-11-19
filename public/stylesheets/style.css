@@ -1,0 +1,31 @@
+
+  body {
+    background-color: #eadfec;
+  }
+
+  .container{
+    background-color: white;
+    border-radius: 19px;
+    margin-top: 40px;
+  }
+
+  h1{
+    display: block
+  }
+  p{
+    display: block;
+    margin-bottom: 0;
+  }
+
+  img{
+    border-radius: 100%;
+    height: 20%;
+    width: 20%;
+    display: inline;
+    padding-bottom: 57px;
+  }
+
+  div .title{
+    display: inline-block;
+    margin-top: 20px;
+  }
